@@ -28,7 +28,6 @@ Pick a style in the visual editor (**Compass look**) or with `look:` in YAML. Th
 
 Modern uses **Dial full scale** (`max_speed`) for that outer arc (default **40** mph, or the matching value in your display units).
 
-![Wind Plus on a Home Assistant dashboard](media/preview-dashboard.png)
 
 ## Install
 
